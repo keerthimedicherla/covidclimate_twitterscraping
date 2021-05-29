@@ -1,4 +1,4 @@
-**This code is intended for use by those with Twitter Developer accounts who wish to view the existence of COVID-related sentiments within Tweets that reference climate change. Be sure that you have an environment variable called BEARER_TOKEN that holds the proper authentication information for your Twitter Developer account.**
+**This code is intended for use by those with Twitter Developer accounts who wish to analyze the presence of COVID-related sentiments within Tweets that reference climate change. Before using this code, ensure that you have an environment variable called BEARER_TOKEN that holds the proper authentication information for your Twitter Developer account.**
 
 **Information on Obtaining a Bearer Token:** https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
 
